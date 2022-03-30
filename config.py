@@ -2,7 +2,6 @@ from ntpath import join
 import os
 
 TOKEN = 'Enter You Token'
-
 BASE_PATH = os.getcwd()
 UPLOADS_DIR = 'uploads'
 
